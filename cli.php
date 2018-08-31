@@ -10,7 +10,7 @@ $SECRET_KEY = "YOUR_SECRET_KEY";
 
 $curl = curl_init();
 curl_setopt_array($curl, array(
-  CURLOPT_URL => "https://api.sharinggilsblog.org/cli.php",
+  CURLOPT_URL => "https://api.sgb.or.id/cli.php",
   CURLOPT_HEADER => 0,
   CURLOPT_VERBOSE => 1,
   CURLOPT_AUTOREFERER => false,
