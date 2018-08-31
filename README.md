@@ -22,4 +22,4 @@ CLI use `cli.php`
 
 Get API Key : contact admin!
 
-Get Secret Key : https://www.sharinggilsblog.org/member/getsecret.php
+Get Secret Key : https://member.sgb.or.id/getsecret.php
